@@ -7,6 +7,8 @@
 
 ## Overview
 
+Project made as part of the "Projeto de Sistemas Digitais" couse.
+
 This project implements hardware modules in Verilog to **divide complex numbers**:
 
 (a + jb) ÷ (c + jd) = (a c + b d + j(b c – a d)) / (c² + d²)
