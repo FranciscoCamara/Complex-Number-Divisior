@@ -23,7 +23,7 @@ Different architectures are explored to balance **latency, area, and resource sh
 | `cpxdiv3.v` | 2 sequential multipliers + 2 sequential dividers (final version) |
 | `cpxdiv_tb.v` | Professor’s testbench with full stimuli |
 | `cpxdiv_tbmine.v` | Custom, simpler testbench for debugging |
-| `doc/` | Project report and design notes (PDFs) |
+| `doc/` | Project Proposition and design notes (PDFs) |
 
 ## Results
 
