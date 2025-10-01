@@ -23,9 +23,12 @@ Different architectures are explored to balance **latency, area, and resource sh
 | `cpxdiv1.v` | 1 combinational multiplier + 2 sequential dividers |
 | `cpxdiv2.v` | 1 combinational multiplier + 1 sequential divider |
 | `cpxdiv3.v` | 2 sequential multipliers + 2 sequential dividers (final version) |
-| `cpxdiv_tb.v` | Professor’s testbench with full stimuli |
 | `cpxdiv_tbmine.v` | Custom, simpler testbench for debugging |
 | `doc/` | Project Proposition and design notes (PDFs) |
+
+`cpxdiv3.v` has a small report on the project
+
+**Note:** The project's final testbench and IP cores for the sequential dividers and sequential multiplier are not included due to copyright restrictions.
 
 ## Results
 
